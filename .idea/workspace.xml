@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b67b3f22-56bb-4dab-ac02-b991e2d0d358" name="默认的" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CREDITS" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/EXPERIMENTAL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/check-package.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config.m4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config.w32" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/configs/yaf_config_ini.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/configs/yaf_config_ini.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/configs/yaf_config_simple.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/configs/yaf_config_simple.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/php_yaf.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requests/yaf_request_http.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requests/yaf_request_http.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requests/yaf_request_simple.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requests/yaf_request_simple.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/responses/yaf_response_cli.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/responses/yaf_response_cli.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/responses/yaf_response_http.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/responses/yaf_response_http.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_interface.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_interface.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_map.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_map.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_regex.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_regex.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_rewrite.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_rewrite.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_simple.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_simple.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_static.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_static.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_supervar.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/routes/yaf_route_supervar.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/001.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/002.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/003.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/004.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/005.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/006.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/007.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/008.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/009.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/010.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/011.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/012.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/013.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/014.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/015.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/016.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/017.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/018.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/019.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/020.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/021.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/022.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/023.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/024.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/025.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/026.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/027.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/028.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/029.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/030.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/031.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/032.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/033.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/034.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/035.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/036.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/037.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/038.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/039.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/040.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/041.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/042.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/043.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/044.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/045.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/046.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/047.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/048.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/049.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/050.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/051.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/052.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/053.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/054.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/055.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/056.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/057.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/058.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/059.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/060.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/061.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/062.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/063.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/064.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/065.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/066.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/067.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/068.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/069.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/070.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/071.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/072.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/073.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/074.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/075.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/076.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/077.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/078.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/079.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/bug61493.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/bug62702.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/bug63381.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/bug63438.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/bug63900.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/bug70913.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/build.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/issue134.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/issue163.phpt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/multi-section.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/simple.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tests/system.ini" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/.htaccess.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/application/Bootstrap.php.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/application/controllers/Error.php.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/application/controllers/Index.php.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/application/library/readme.txt.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/application/models/Sample.php.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/application/plugins/Sample.php.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/application/views/error/error.phtml.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/application/views/index/index.phtml.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/conf/application.ini.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/index.php.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/templates/readme.txt.tpl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/cg/yaf_cg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/yaf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tools/yaf_classes.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/travis/compile.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/travis/run-test.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/yaf_view_interface.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/yaf_view_interface.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/yaf_view_simple.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/views/yaf_view_simple.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf.dsp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_action.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_action.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_application.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_application.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_bootstrap.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_bootstrap.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_config.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_config.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_controller.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_controller.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_dispatcher.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_dispatcher.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_exception.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_exception.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_loader.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_loader.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_logo.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_namespace.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_plugin.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_plugin.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_registry.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_registry.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_request.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_request.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_response.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_response.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_router.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_router.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_session.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_session.h" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_view.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yaf_view.h" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="yaf.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="yaf" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf/application.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.025510205">
+              <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.875">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.phtml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/index/index.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+              <folding>
+                <marker date="1461169763000" expanded="true" signature="105:137" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/controllers/Index.php" />
+        <option value="$PROJECT_DIR$/views/index/index.phtml.html" />
+        <option value="$PROJECT_DIR$/conf/application.ini" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="295" />
+    <option name="y" value="67" />
+    <option name="width" value="1280" />
+    <option name="height" value="712" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="添加" />
+    <OptionsSetting value="true" id="移除" />
+    <OptionsSetting value="true" id="签出" />
+    <OptionsSetting value="true" id="更新" />
+    <OptionsSetting value="true" id="状态" />
+    <OptionsSetting value="true" id="编辑" />
+    <ConfirmationsSetting value="0" id="添加" />
+    <ConfirmationsSetting value="0" id="移除" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yaf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yaf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yaf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/application" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AppEnginePhpConfigurationType" factoryName="App Engine for PHP">
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <envs />
+      <force value="false" />
+      <verbose value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$PROJECT_DIR$/../kaixinwa2.0" Dictionaries="0" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b67b3f22-56bb-4dab-ac02-b991e2d0d358" name="默认的" comment="" />
+      <created>1461167783520</created>
+      <option name="number" value="Default" />
+      <updated>1461167783520</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="295" y="67" width="1280" height="712" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="版本控制" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/controllers/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/index/index.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+          <folding>
+            <marker date="1461169763000" expanded="true" signature="105:137" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/application.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.025510205">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
